@@ -1,5 +1,5 @@
 # Delphi Generation
-Php scripts for generator fake Delphi calendar data.
+PHP scripts for generator fake Delphi calendar data.
 
 ## Event Details
 Generates event details for the passed number of required entries. You can also pass an optional id which will be included in the final generated file name.
